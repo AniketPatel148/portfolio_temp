@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio-v1/static/css/main.48c3a4b1.chunk.css",
-    "main.js": "/portfolio-v1/static/js/main.fd61b33b.chunk.js",
-    "main.js.map": "/portfolio-v1/static/js/main.fd61b33b.chunk.js.map",
-    "runtime-main.js": "/portfolio-v1/static/js/runtime-main.b556fcf1.js",
-    "runtime-main.js.map": "/portfolio-v1/static/js/runtime-main.b556fcf1.js.map",
-    "static/js/2.01e99f92.chunk.js": "/portfolio-v1/static/js/2.01e99f92.chunk.js",
-    "static/js/2.01e99f92.chunk.js.map": "/portfolio-v1/static/js/2.01e99f92.chunk.js.map",
+    "main.js": "/portfolio-v1/static/js/main.2c9bb33c.chunk.js",
+    "main.js.map": "/portfolio-v1/static/js/main.2c9bb33c.chunk.js.map",
+    "runtime-main.js": "/portfolio-v1/static/js/runtime-main.23e662bf.js",
+    "runtime-main.js.map": "/portfolio-v1/static/js/runtime-main.23e662bf.js.map",
+    "static/js/2.dc186a13.chunk.js": "/portfolio-v1/static/js/2.dc186a13.chunk.js",
+    "static/js/2.dc186a13.chunk.js.map": "/portfolio-v1/static/js/2.dc186a13.chunk.js.map",
     "index.html": "/portfolio-v1/index.html",
-    "precache-manifest.1c50c87d0aec5f342da322301e69236b.js": "/portfolio-v1/precache-manifest.1c50c87d0aec5f342da322301e69236b.js",
+    "precache-manifest.010b449ab96491c5fb1aefb3f6cf320e.js": "/portfolio-v1/precache-manifest.010b449ab96491c5fb1aefb3f6cf320e.js",
     "service-worker.js": "/portfolio-v1/service-worker.js",
     "static/css/main.48c3a4b1.chunk.css.map": "/portfolio-v1/static/css/main.48c3a4b1.chunk.css.map",
-    "static/js/2.01e99f92.chunk.js.LICENSE.txt": "/portfolio-v1/static/js/2.01e99f92.chunk.js.LICENSE.txt",
+    "static/js/2.dc186a13.chunk.js.LICENSE.txt": "/portfolio-v1/static/js/2.dc186a13.chunk.js.LICENSE.txt",
     "static/media/Aniket_Resume.pdf": "/portfolio-v1/static/media/Aniket_Resume.272265de.pdf",
     "static/media/amazonlite.jpg": "/portfolio-v1/static/media/amazonlite.de32016c.jpg",
     "static/media/styles.scss": "/portfolio-v1/static/media/bg-6.d4eb55f6.jpg",
@@ -19,9 +19,9 @@
     "static/media/covid.jpg": "/portfolio-v1/static/media/covid.f7ffffd1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b556fcf1.js",
-    "static/js/2.01e99f92.chunk.js",
+    "static/js/runtime-main.23e662bf.js",
+    "static/js/2.dc186a13.chunk.js",
     "static/css/main.48c3a4b1.chunk.css",
-    "static/js/main.fd61b33b.chunk.js"
+    "static/js/main.2c9bb33c.chunk.js"
   ]
 }
