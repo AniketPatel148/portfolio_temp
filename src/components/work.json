@@ -1,0 +1,23 @@
+[
+	{
+		"id": "ck124",
+		"company": "VoiceQube",
+		"site": "https://www.voiceqube.com/",
+		"date": "Aug 2021 - present",
+		"text": "Full Stack developer -  developed servers and database for website functionality."
+	},
+	{
+		"id": "ck123",
+		"company": "StoryQube",
+		"site": "https://www.storyqube.com/",
+		"date": "May 2021 - July 2021",
+		"text": "Microservices developer - Created various microservices for the back-end."
+	},
+	{
+		"id": "ck126",
+		"company": "Codedamn",
+		"site": "https://www.codedamn.com/",
+		"date": "Sept 2020 - Oct 2020",
+		"text": "Full Stack developer - Programmed UI/UX of the software, scripted new api endpoints for the front-end systems."
+	}
+]
